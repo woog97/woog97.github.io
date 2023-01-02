@@ -17,11 +17,11 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "home"}
-  - {file: "README.md", title: "projects", url: "https://woog97.github.io/projects/"}
-  - {file: "README.md", title: "hobbies"}
-  - {file: "README.md", title: "readings"}
-  - {file: "README.md", title: "philosophy"}
-  - {file: "README.md", title: "more"}
+  - {file: "projects.md", title: "projects", url: "https://woog97.github.io/projects/"}
+  - {file: "hobbies.md", title: "hobbies", url: "https://woog97.github.io/hobbies/"}
+  - {file: "readings.md", title: "readings", url: "https://woog97.github.io/readings/"}
+  - {file: "philosophy.md", title: "philosophy", url: "https://woog97.github.io/philosophy/"}
+  - {file: "README.md", title: "more", url: "https://woog97.github.io/more/"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:woogwoog97@gmail.com"}
