@@ -2,7 +2,7 @@
 title:  "hybrid classifier"
 mathjax: true
 layout: post
-categories: media
+category: projects
 ---
 
 ## hybrid classifier
