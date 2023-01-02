@@ -1,6 +1,7 @@
 ---
 title:  "this website"
 layout: post
+category: projects
 ---
 
 turns out, building a personal website is pretty easy. i followed [this](https://www.youtube.com/watch?v=qZsgPgGdOzQ) tutorial to get started.
