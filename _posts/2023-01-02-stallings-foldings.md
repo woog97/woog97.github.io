@@ -1,6 +1,7 @@
 ---
 title: "stallings foldings"
 layout: post
+category: projects
 ---
 
 a friend of mine spent a good amount of time in undergrad and his masters studying geometric group theory. 
