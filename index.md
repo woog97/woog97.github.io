@@ -16,6 +16,7 @@ some of my projects and interests are listed below. when not working on technica
  - this website
    - need to figure out how to put sub points or checkboxes.
    - also how to make them do something (such as change theme)
+   - lastly, need to remove "date" from displaying on site leaf nodes
 
 ## hobbies
 
