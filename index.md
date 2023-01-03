@@ -5,7 +5,8 @@ title: "home"
 
 # i am woog.
 
-### i studied math in undergrad, now spend my time programming 
+### i studied math in undergrad, now spend my time programming and exploring various hobbies.
+some of my projects and interests are listed below. when not pursuing academic things, i engage with theravada buddhism.
 
 ## projects
 
