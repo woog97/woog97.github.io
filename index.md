@@ -1,7 +1,11 @@
 ---
 layout: page
-title: "Home"
+title: "home"
 ---
+
+# i am woog.
+
+### i studied math in undergrad, now spend my time programming 
 
 ## projects
 
@@ -9,8 +13,8 @@ title: "Home"
  - [hybrid classifier](https://woog97.github.io/hybrid-classifier/)
  - [stallings foldings, the app](https://woog97.github.io/stallings-foldings/)
  - this website
- - - need to figure out how to put sub points or checkboxes.
- - - also how to make them do something (such as change theme)
+   - need to figure out how to put sub points or checkboxes.
+   - also how to make them do something (such as change theme)
 
 ## hobbies
 
@@ -22,10 +26,10 @@ title: "Home"
 
 ## books & papers im currently reading
 
-- [cantor minimal systems (math)]()
-- [structure & interpretation of computer programs (cs)]()
-- [short text topic modeling techniques, applications, and performance: a survey (ml paper)]()
-- [cramming: training a language model on a single gpu in one day (ml paper)]()
+- [cantor minimal systems (math)](https://bookstore.ams.org/view?ProductCode=ULECT/70)
+- [structure & interpretation of computer programs (cs)](https://sarabander.github.io/sicp/html/index.xhtml)
+- [short text topic modeling techniques, applications, and performance: a survey (ml paper)](https://arxiv.org/abs/1904.07695)
+- [cramming: training a language model on a single gpu in one day (ml paper)](https://arxiv.org/abs/2212.14034)
 
 ## personal philosophy
 
