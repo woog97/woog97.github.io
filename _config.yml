@@ -18,10 +18,10 @@ mathjax: true
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "home"}
-  - {file: "projects.md", title: "projects", url: "https://woog97.github.io/projects/"}
-  - {file: "hobbies.md", title: "hobbies", url: "https://woog97.github.io/hobbies/"}
-  - {file: "readings.md", title: "readings", url: "https://woog97.github.io/readings/"}
-  - {file: "philosophy.md", title: "philosophy", url: "https://woog97.github.io/philosophy/"}
+  - {file: "projects.html", title: "projects", url: "https://woog97.github.io/projects/"}
+  - {file: "hobbies.html", title: "hobbies", url: "https://woog97.github.io/hobbies/"}
+  - {file: "readings.html", title: "readings", url: "https://woog97.github.io/readings/"}
+  - {file: "philosophy.html", title: "philosophy", url: "https://woog97.github.io/philosophy/"}
   - {file: "README.md", title: "more", url: "https://woog97.github.io/more/"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
