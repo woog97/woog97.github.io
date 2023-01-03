@@ -6,7 +6,7 @@ title: "home"
 # i am woog.
 
 ### i studied math in undergrad, now spend my time programming and exploring various hobbies.
-some of my projects and interests are listed below. when not pursuing academic things, i engage with theravada buddhism.
+some of my projects and interests are listed below. when not working on technical things, i [meditate](https://woog97.github.io/dharma/).
 
 ## projects
 
