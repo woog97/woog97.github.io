@@ -24,10 +24,10 @@ title: "readings"
 
 ## things i have read
 
-- kornfield: a path with heart
-- bhagavad gita
-- some of the upanishads
-- mastering the core teachings of the buddha
+- (pd) kornfield: a path with heart
+- (pd) bhagavad gita
+- (pd) some of the upanishads
+- (pd) mastering the core teachings of the buddha
 - artin: abstract algebra
 - linear algebra
 - rotman: advanced linear algebra
