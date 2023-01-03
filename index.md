@@ -30,6 +30,8 @@ title: "home"
 - [structure & interpretation of computer programs (cs)](https://sarabander.github.io/sicp/html/index.xhtml)
 - [short text topic modeling techniques, applications, and performance: a survey (ml paper)](https://arxiv.org/abs/1904.07695)
 - [cramming: training a language model on a single gpu in one day (ml paper)](https://arxiv.org/abs/2212.14034)
+- [lovingkindness: the revolutionary art of happiness](https://www.shambhala.com/lovingkindness-15144.html)
+- [the miracle of mindfulness](https://plumvillage.org/books/the-miracle-of-mindfulness/)
 
 ## personal philosophy
 
