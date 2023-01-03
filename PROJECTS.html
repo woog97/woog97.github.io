@@ -4,7 +4,7 @@ permalink: "/projects/"
 layout: default
 ---
 
-{% for post in site.posts.projects %}
+{% for post in site.categories.projects %}
   <h3>{{ post.id }}</h3>
   <ul>
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
