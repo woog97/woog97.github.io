@@ -6,7 +6,6 @@ title: "readings"
 ## legend of less obvious acronyms
 
  - pd: spirituality
- - 
 
 ## things im currently reading
 
@@ -27,12 +26,12 @@ title: "readings"
 
 - kornfield: a path with heart
 - bhagavad gita
+- some of the upanishads
 - mastering the core teachings of the buddha
-
 - artin: abstract algebra
 - linear algebra
-- advanced linear algebra
-- rational points on elliptic curves
+- rotman: advanced linear algebra
+- silverman: rational points on elliptic curves
 - hartshorne: algebraic geometry (first 3 chapters)
 - shafarevich: basic algebraic geometry
 - spivak: calculus on manifolds
