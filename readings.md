@@ -13,6 +13,8 @@ title: "readings"
 - (math) cantor minimal systems
 - (ml) short text topic modeling techniques, applications, and performance: a survey
 - (ml) cramming: training a language model on a single gpu in one day
+- (pd) salzberg: loving-kindness: the revolutionary art of happiness
+- (pd) thich nhat hanh: the miracle of mindfulness
 
 
 ## things i want to read
