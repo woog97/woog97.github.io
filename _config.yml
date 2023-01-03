@@ -22,7 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "hobbies.html", title: "hobbies", url: "https://woog97.github.io/hobbies/"}
   - {file: "readings.html", title: "readings", url: "https://woog97.github.io/readings/"}
   - {file: "philosophy.html", title: "philosophy", url: "https://woog97.github.io/philosophy/"}
-  - {file: "README.md", title: "more", url: "https://woog97.github.io/more/"}
+  - {file: "overview.html", title: "more", url: "https://woog97.github.io/more/"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:woogwoog97@gmail.com"}
