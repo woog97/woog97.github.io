@@ -15,7 +15,7 @@ some of my projects and interests are listed below. when not working on technica
  - [stallings foldings, the app](https://woog97.github.io/stallings-foldings/)
  - [this website](https://woog97.github.io/this-website/) ~ things to do:
    - make it load properly on phones
-   - pad content on pages with more text, polish visuals
+   - increase padding for pages with more text, polish visuals
    - figure out how to use canvases so i can finish my other project pages
    - flesh out the text portions of the main pages
 
