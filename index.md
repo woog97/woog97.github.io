@@ -13,10 +13,11 @@ some of my projects and interests are listed below. when not working on technica
  - [hex](https://woog97.github.io/projects/)
  - [hybrid classifier](https://woog97.github.io/hybrid-classifier/)
  - [stallings foldings, the app](https://woog97.github.io/stallings-foldings/)
- - this website
-   - need to figure out how to put sub points or checkboxes.
-   - also how to make them do something (such as change theme)
-   - lastly, need to remove "date" from displaying on site leaf nodes
+ - [this website](https://woog97.github.io/this-website/) ~ things to do:
+   - make it load properly on phones
+   - pad text on pages with more content, polish visuals
+   - figure out how to use canvases so i can finish my other project pages
+   - flesh out the text portions of the main pages
 
 ## hobbies
 
