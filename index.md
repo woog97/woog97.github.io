@@ -29,6 +29,11 @@ internal links
 - [diy water](https://woog97.github.io/diy-water/)
 - [math](https://woog97.github.io/math/)
 
+## stuff i did in the past
+- ran [the math server](https://discord.gg/math) for 3 years or so
+- ran reading groups/putnam prep/colloquia in school
+- probably other stuff im not thinking of
+
 ## books & papers im currently reading
 external links
 - [cantor minimal systems (math)](https://bookstore.ams.org/view?ProductCode=ULECT/70)
