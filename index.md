@@ -30,16 +30,19 @@ outputs of aisc involvements so far, that has links:
 - [mamba explained](https://www.kolaayonrinde.com/blog/2024/02/11/mamba.html), feb 11, blog by: kola ayonrinde (ka)
 - [cis with codebooks](https://colab.research.google.com/drive/1dMfXLKD9znzW0IjFXuZng2zEcc__lr_c?usp=sharing), feb 12, colab work by: mp, lucas hayne (lh)
 - [patchscopes implementation](https://github.com/jcoombes/obvs/blob/main/obvspython/patchscope.py), feb 17, paper implementation by: fergus fettes (ff)
+- [atp* implementation](https://github.com/koayon/atp_star), mar 14, paper implementation by: ka
 
 stuff in the works that are incomplete or do not yet have links
-- mechinterp.com website rework
-- distillation of the whole mech interp field, for a general non-technical audience and for policy makers
+- [mechinterp.com website rework](https://mech-interp.pages.dev/)
+- distillation of the whole mech interp field, for a general non-technical audience and for policy makers (to be self-published on above site)
 - further attention superposition, a [slideshow](https://docs.google.com/presentation/d/1aojvhGBF5GiAd0niWSmRhExKy4cq3CPynDMkmUWkL-w/edit#slide=id.g1efcac9d369_1_191)
-- supervising various projects: weight visualization, mamba interp, persistent cohomology on sae features, lottery ticket circuit analysis, etc
+- supervising various projects: weight visualization, mamba interp, circuits at initialization, etc
+- [bilinear interp](https://github.com/tdooms/bilinear-interp/tree/main)
 
 project graveyard/limbo
 - efficient implementation of [semiring backpropagation](https://arxiv.org/abs/2307.03056) for computing path entropy
 - sharing my thoughts more openly outside of random discord channels, maybe in a blog
+- persistent cohomology on sae features (failed, should still write up negative findings)
 
 ## hobbies
 internal links
